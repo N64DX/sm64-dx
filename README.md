@@ -15,8 +15,11 @@ This repo does not include all assets necessary for compiling the ROMs.
 A prior copy of the game is required to extract the assets.
 
 ## Quick Start (for Ubuntu)
-
-1. Install prerequisites: `sudo apt install -y binutils-mips-linux-gnu build-essential git pkgconf python3`
+1. Install prerequisites:
+```
+sudo add-apt-repository universe
+sudo apt install -y binutils-mips-linux-gnu build-essential git pkgconf python3
+```
 2. Clone the repo from within Linux: `git clone https://github.com/n64decomp/sm64.git`
 3. Place a Super Mario 64 ROM called `baserom.<VERSION>.z64` into the project folder for asset extraction, where `VERSION` can be `jp`, `us`, `eu`, `sh`, or `cn`.
 4. Run `make` to build. Specify the version through `make VERSION=<VERSION>`. Add `-j4` to improve build speed (hardware dependent).
