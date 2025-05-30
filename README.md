@@ -73,6 +73,7 @@ distributions with support in the makefile, and examples of distros that offer t
 * `mips64-elf-` (Arch AUR)
 * `mips-linux-gnu-` (Ubuntu and other Debian-based distros)
 * `mips64-linux-gnu-` (RHEL/CentOS/Fedora)
+* `mips-suse-linux-` (openSUSE)
 
 You may also use [Docker](#docker-installation) to handle installing an image with minimal dependencies.
 
