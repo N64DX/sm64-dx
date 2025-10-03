@@ -18,19 +18,11 @@
     .word  0x00001444
 #endif
 
-#ifdef VERSION_CN
-    .fill 0x30
-#else
-
 .word  0x4EAA3D0E               /* Checksum 1 */
 .word  0x74757C24               /* Checksum 2 */
 .word  0x00000000               /* Unknown */
 .word  0x00000000               /* Unknown */
-#ifdef VERSION_SH
-.ascii "SUPERMARIO64        "   /* Internal ROM name */
-#else
 .ascii "SUPER MARIO 64      "   /* Internal ROM name */
-#endif
 .word  0x00000000               /* Unknown */
 .word  0x0000004E               /* Cartridge */
 .ascii "SM"                     /* Cartridge ID */
@@ -49,6 +41,4 @@
     .byte  0x03                 /* Version (Shindou) */
 #else
     .byte  0x00                 /* Version */
-#endif
-
 #endif
