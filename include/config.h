@@ -30,6 +30,8 @@
 #define BUGFIX_BOWSER_FALLEN_OFF_STAGE 1
 /// Fixes bug where Bowser would look weird while fading out
 #define BUGFIX_BOWSER_FADING_OUT 1
+/// Fixes BLJ (Backwards Long Jump) speed build up
+#define BUGFIX_BLJ 0
 
 // Support Rumble Pak
 #define ENABLE_RUMBLE 1
