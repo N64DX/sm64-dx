@@ -3,6 +3,9 @@
 
 #include "config.h"
 
+/* Use expansion pack RAM */
+#define USE_EXT_RAM 1
+
 /*
  * Memory addresses for segments. Ideally, this header file would not be
  * needed, and the addresses would be defined in sm64.ld and linker-inserted
