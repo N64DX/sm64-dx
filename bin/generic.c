@@ -5,7 +5,7 @@
 
 // 0x09000000
 ALIGNED8 const Texture generic_09000000[] = {
-#include "textures/generic/bob_textures.00000.rgba16.inc.c"
+#include "textures/generic/bob_textures.07000.rgba16.inc.c"
 };
 
 // 0x09000800

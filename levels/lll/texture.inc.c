@@ -10,7 +10,7 @@ ALIGNED8 static const Texture lll_seg7_texture_07000800[] = {
 
 // 0x07001000 - 0x07001800
 ALIGNED8 static const Texture lll_seg7_texture_07001000[] = {
-#include "levels/lll/2.rgba16.inc.c"
+#include "levels/lll/3.rgba16.inc.c"
 };
 
 // 0x07001800 - 0x07002000

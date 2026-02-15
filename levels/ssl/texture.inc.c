@@ -10,7 +10,7 @@ ALIGNED8 static const Texture ssl_seg7_texture_07000800[] = {
 
 // 0x07001000 - 0x07001800
 ALIGNED8 const Texture ssl_pyramid_sand[] = {
-#include "levels/ssl/2.rgba16.inc.c"
+#include "levels/ssl/4.rgba16.inc.c"
 };
 
 // 0x07001800 - 0x07002000

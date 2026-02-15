@@ -80,7 +80,7 @@ ALIGNED8 const Texture snow_09008000[] = {
 
 // 0x09008800
 ALIGNED8 const Texture snow_09008800[] = {
-#include "textures/snow/ccm_textures.08800.rgba16.inc.c"
+#include "textures/snow/ccm_textures.03800.rgba16.inc.c"
 };
 
 // 0x09009000
