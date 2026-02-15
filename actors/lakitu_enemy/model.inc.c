@@ -36,7 +36,7 @@ ALIGNED8 static const Texture lakitu_enemy_seg5_texture_050104E0[] = {
 
 // 0x050114E0
 ALIGNED8 static const Texture lakitu_enemy_seg5_texture_050114E0[] = {
-#include "actors/lakitu_enemy/lakitu_enemy_shell.rgba16.inc.c"
+#include "actors/lakitu_enemy/lakitu_enemy_cloud_face_unused.rgba16.inc.c"
 };
 
 // 0x05011CE0

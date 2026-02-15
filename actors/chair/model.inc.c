@@ -13,7 +13,7 @@ ALIGNED8 static const Texture chair_seg5_texture_05003060[] = {
 
 // 0x05003860
 ALIGNED8 static const Texture chair_seg5_texture_05003860[] = {
-#include "actors/chair/chair_leg.rgba16.inc.c"
+#include "actors/chair/chair_surface_unused.rgba16.inc.c"
 };
 
 // 0x05004060

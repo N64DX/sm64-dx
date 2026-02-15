@@ -115,12 +115,12 @@ ALIGNED8 static const Texture mario_texture_eyes_dead[] = {
 
 // 0x04008090
 ALIGNED8 static const Texture mario_texture_wings_half_1[] = {
-#include "actors/mario/mario_wing.rgba16.inc.c"
+#include "actors/mario/mario_metal_wing_unused.rgba16.inc.c"
 };
 
 // 0x04009090
 ALIGNED8 static const Texture mario_texture_wings_half_2[] = {
-#include "actors/mario/mario_wing_tip.rgba16.inc.c"
+#include "actors/mario/mario_metal_wing_tip_unused.rgba16.inc.c"
 };
 
 // 0x0400A090

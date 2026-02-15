@@ -469,23 +469,23 @@ static Gfx *gd_silver_star_dl_array[] = {
 };
 
 ALIGNED8 static Texture gd_texture_sparkle_0[] = {
-#include "textures/intro_raw/sparkle_0.rgba16.inc.c"
+#include "textures/intro_raw/sparkle_5.rgba16.inc.c"
 };
 
 ALIGNED8 static Texture gd_texture_sparkle_1[] = {
-#include "textures/intro_raw/sparkle_1.rgba16.inc.c"
+#include "textures/intro_raw/sparkle_5.rgba16.inc.c"
 };
 
 ALIGNED8 static Texture gd_texture_sparkle_2[] = {
-#include "textures/intro_raw/sparkle_2.rgba16.inc.c"
+#include "textures/intro_raw/sparkle_5.rgba16.inc.c"
 };
 
 ALIGNED8 static Texture gd_texture_sparkle_3[] = {
-#include "textures/intro_raw/sparkle_3.rgba16.inc.c"
+#include "textures/intro_raw/sparkle_5.rgba16.inc.c"
 };
 
 ALIGNED8 static Texture gd_texture_sparkle_4[] = {
-#include "textures/intro_raw/sparkle_4.rgba16.inc.c"
+#include "textures/intro_raw/sparkle_5.rgba16.inc.c"
 };
 
 //! No reference to this texture. Two DL's uses the same previous texture

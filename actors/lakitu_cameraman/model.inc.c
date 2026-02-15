@@ -17,7 +17,7 @@ ALIGNED8 static const Texture lakitu_seg6_texture_06001800[] = {
 
 // 0x06002800
 ALIGNED8 static const Texture lakitu_seg6_texture_06002800[] = {
-#include "actors/lakitu_cameraman/lakitu_cameraman_shell.rgba16.inc.c"
+#include "actors/lakitu_cameraman/lakitu_cameraman_cloud_face_unused.rgba16.inc.c"
 };
 
 // 0x06003000

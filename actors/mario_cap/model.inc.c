@@ -30,12 +30,12 @@ ALIGNED8 static const Texture mario_cap_seg3_texture_0301DF50[] = {
 
 // 0x0301E750
 ALIGNED8 static const Texture mario_cap_seg3_texture_0301E750[] = {
-#include "actors/mario_cap/mario_cap_wing.rgba16.inc.c"
+#include "actors/mario_cap/mario_cap_metal_wing_unused.rgba16.inc.c"
 };
 
 // 0x0301F750
 ALIGNED8 static const Texture mario_cap_seg3_texture_0301F750[] = {
-#include "actors/mario_cap/mario_cap_wing_tip.rgba16.inc.c"
+#include "actors/mario_cap/mario_cap_metal_wing_tip_unused.rgba16.inc.c"
 };
 
 // 0x03020750
